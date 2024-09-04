@@ -39,7 +39,7 @@ export default function Home() {
         <ul className="list-none flex space-x-10 text-gray-800">
           <li><a href="#" className="transition-colors duration-300 hover:text-[#017143]">Home</a></li>
           <li><a href="#" className="transition-colors duration-300 hover:text-[#017143]">Menu</a></li>
-          <li><a href="#" className="transition-colors duration-300 hover:text-[#017143]">What's New</a></li>
+          <li><a href="#" className="transition-colors duration-300 hover:text-[#017143]">Whats New</a></li>
           <li><a href="#" className="transition-colors duration-300 hover:text-[#017143]">Contact</a></li>
         </ul>
       </header>
