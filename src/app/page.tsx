@@ -46,10 +46,10 @@ export default function Home() {
       <div className="relative w-full flex justify-between items-center" data-aos="fade-up">
         <div className="relative max-w-lg">
           <h2 className="text-gray-800 text-5xl leading-tight font-bold mb-4">
-            It's not just Coffee <br /> It's <span className="text-[#017143] font-extrabold">Star Bucks</span>
+            Its not just Coffee <br /> Its <span className="text-[#017143] font-extrabold">Star Bucks</span>
           </h2>
           <p className="text-gray-800 mb-4">
-            Coffee lovers around the world who reach for their favorite morning brew probably aren’t thinking about its health benefits or risks. And yet this beverage has been subject to a long history of debate. In 1991 coffee was included in a list of possible carcinogens by the World Health Organization. By 2016 it was exonerated, as research found that the beverage was not associated with an increased risk of cancer.
+            Coffee lovers around the world who reach for their favorite morning brew probably arent thinking about its health benefits or risks. And yet this beverage has been subject to a long history of debate. In 1991 coffee was included in a list of possible carcinogens by the World Health Organization. By 2016 it was exonerated, as research found that the beverage was not associated with an increased risk of cancer.
           </p>
           <a href="#" className="inline-block mt-5 py-2 px-5 bg-[#017143] text-white rounded-full font-medium tracking-wide transition-transform duration-300 hover:bg-[#014a36]">Learn More</a>
         </div>
